@@ -1,0 +1,123 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "guid": "f4271994-1bea-48d4-a7c2-db3f54dd03d8",
+            "name": "Catu",
+            "renditions": {
+                "static": {
+                    "rectangle": ["images/image_1.png"],
+                    "square": ["images/image_1.png"]
+                },
+                "dynamic": {
+                }
+            },
+            "category": "Static",
+            "subCategory": "Objects",
+            "role": "Characters",
+            "hasAudio" : false
+        },
+        {
+            "id": 2,
+            "guid": "0db5f12c-b0ab-4723-b334-3077d2dd8519",
+            "name": "Tom",
+            "renditions": {
+                "static": {
+                    "rectangle": ["images/image_2.png"],
+                    "square": ["images/image_2.png"]
+                },
+                "dynamic": {
+                }
+            },
+            "category": "Static",
+            "subCategory": "Objects",
+            "role": "Characters",
+            "hasAudio" : true
+        },
+        {
+            "id": 3,
+            "guid": "e43718d3-9e8d-440a-882d-4e5fe16b5474",
+            "name": "Jerry",
+            "renditions": {
+                "static": {
+                    "rectangle": ["images/image_3.png"],
+                    "square": ["images/image_3.png"]
+                },
+                "dynamic": {
+                }
+            },
+            "category": "Static",
+            "subCategory": "Objects",
+            "role": "Characters",
+            "hasAudio" : false
+        },
+        {
+            "id": 4,
+            "guid": "b45b3992-81cc-42af-964f-486c249e8b92",
+            "name": "Mouse",
+            "renditions": {
+                "static": {
+                    "rectangle": ["images/image_4.png"],
+                    "square": ["images/image_4.png"]
+                },
+                "dynamic": {
+                }
+            },
+            "category": "Static",
+            "subCategory": "Objects",
+            "role": "Characters",
+            "hasAudio" : false
+        },
+        {
+            "id": 5,
+            "guid": "331296bb-56d9-4daf-b384-ae8515e15b92",
+            "name": "Dog",
+            "renditions": {
+                "static": {
+                    "rectangle": ["images/image_5.png"],
+                    "square": ["images/image_5.png"]
+                },
+                "dynamic": {
+                }
+            },
+            "category": "Static",
+            "subCategory": "Objects",
+            "role": "Characters",
+            "hasAudio" : true
+        },
+        {
+            "id": 6,
+            "guid": "ef215db9-0619-42d4-8a64-0a1ede5279be",
+            "name": "Catu",
+            "renditions": {
+                "static": {
+                    "rectangle": ["images/image_6.png"],
+                    "square": ["images/image_6.png"]
+                },
+                "dynamic": {
+                }
+            },
+            "category": "Static",
+            "subCategory": "Objects",
+            "role": "Characters",
+            "hasAudio" : false
+        },
+      {
+        "id": 7,
+        "guid": "ef215db9-0619-42d4-8a64-0a1ede5279be",
+        "name": "Testing favorites",
+        "renditions": {
+          "static": {
+            "rectangle": ["images/image_6.png"],
+            "square": ["images/image_6.png"]
+          },
+          "dynamic": {
+          }
+        },
+        "category": "Static",
+        "subCategory": "Objects",
+        "role": "Characters",
+        "isFavorite" : true
+      }
+    ]
+}
