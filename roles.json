@@ -1,0 +1,16 @@
+{
+	"data": [
+		{
+			"id": "Characters",
+			"name": "Characters"
+		},
+		{
+			"id": "Props",
+			"name": "Props"
+		},
+		{
+			"id": "Backgrounds",
+			"name": "Backgrounds"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"data": [
+		{
+			"id": "Rigs",
+			"name": "Rigs"
+		},
+		{
+			"id": "Objects",
+			"name": "Objects"
+		},
+		{
+			"id": "Rigged objects",
+			"name": "Rigged objects"
+		}
+	]
+}
