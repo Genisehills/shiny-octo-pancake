@@ -1,0 +1,64 @@
+{
+  "short_name": "Assets",
+  "id": "com.adobe.animate.assets",
+  "version": "0.1",
+  "name": "Assets",
+  "description": "Animate assets panel",
+  "main": "index.html",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "uiEntrypoints": [
+    {
+      "type": "panel",
+      "label": "Assets",
+      "panelId": "mainPanel12",
+      "panelInfo": {
+        "title": {
+          "default": "Assets"
+        },
+        "tooltip": {
+          "default": "Assets"
+        },
+        "icons": [
+          {
+            "path": "favicon.ico",
+            "brightness": "light"
+          },
+          {
+            "path": "favicon.ico",
+            "brightness": "dark"
+          }
+        ],
+        "minimumSize": {
+          "height": 403,
+          "width": 500
+        },
+        "maximumSize": {
+          "width": 1208,
+          "height": 2000
+        },
+        "preferredDockedSize": {
+          "width": 304,
+          "height": 500
+        },
+        "preferredFloatingSize": {
+          "width": 304,
+          "height": 500
+        },
+        "horizontalStepSize": 1,
+        "verticalStepSize": 1,
+        "isMinimized": false,
+        "suppressResizeGripper": false
+      }
+    }
+  ]
+}
